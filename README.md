@@ -8,5 +8,5 @@ https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,60
 @keyframes
 
 # JAVASCRIPT
-
+loading_container
 
